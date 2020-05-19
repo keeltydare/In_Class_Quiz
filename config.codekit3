@@ -19,6 +19,61 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/deploy/img/2342441.jpg": {
+		"ft": 16384,
+		"iS": 152155,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/2342441.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/4141.jpg": {
+		"ft": 16384,
+		"iS": 104961,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/4141.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/4441.jpg": {
+		"ft": 16384,
+		"iS": 139189,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/4441.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/Letterpress-Perspective-B-Cards-MockUp-6001.jpg": {
+		"ft": 16384,
+		"iS": 84293,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/Letterpress-Perspective-B-Cards-MockUp-6001.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/main_slide_21.jpg": {
+		"ft": 16384,
+		"iS": 1423110,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/main_slide_21.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/deploy/index.html": {
 		"cB": 0,
 		"ft": 8192,

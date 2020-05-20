@@ -8,14 +8,16 @@
     height: 560px;
 
     >div {
+        padding: 0 140px;
         text-align: center;
 
-        h1 {
+        h1 { 
             font-family: "Comfortaa", cursive;
             color: $teal;
             font-size: rem-calc(38);
             line-height: rem-calc(46);
             margin-bottom: 20px;
+            padding-top: 20px;
 
         }
 

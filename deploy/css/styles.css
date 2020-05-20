@@ -317,9 +317,28 @@ template {
 /* =============
     Base
 ============= */
+ul {
+  margin: 0;
+  padding: 0; }
+  ul li {
+    list-style: none; }
+
 /* =============
     Typography
 ============= */
+body {
+  font-family: 'Comfortaa', cursive;
+  font-family: 'Monserrat', sans-serif;
+  font-family: 'Lato', sans-serif; }
+
+h1, h2, h3, h4, h5 {
+  margin: 0;
+  padding: 0; }
+
+p {
+  margin: 0;
+  padding: 0; }
+
 /* =============
     Buttons
 ============= */
@@ -349,4 +368,30 @@ textarea {
 ============= */
 /* =============
     Section 1
+============= */
+#section-1 {
+  background-image: url("../img/section-1/hero.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 560px; }
+  #section-1 > div {
+    text-align: center; }
+    #section-1 > div h1 {
+      font-family: "Comfortaa", cursive;
+      color: #1A4B58;
+      font-size: 2.375rem;
+      line-height: 2.875rem;
+      margin-bottom: 20px; }
+    #section-1 > div h2 {
+      font-family: "Comfortaa", cursive;
+      color: #338595;
+      font-size: 1.5625rem;
+      line-height: 1.8125rem;
+      margin-bottom: 20px; }
+
+/* =============
+    Section-2
+============= */
+/* =============
+    Section-3
 ============= */

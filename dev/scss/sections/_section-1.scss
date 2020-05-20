@@ -1,9 +1,30 @@
 /* =============
     Section 1
 ============= */
-#section-1{
-    .grid-content{
-        
-    }
+#section-1 {
+    background-image: url("../img/section-1/hero.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 560px;
 
+    >div {
+        text-align: center;
+
+        h1 {
+            font-family: "Comfortaa", cursive;
+            color: $teal;
+            font-size: rem-calc(38);
+            line-height: rem-calc(46);
+            margin-bottom: 20px;
+
+        }
+
+        h2 {
+            font-family: "Comfortaa", cursive;
+            color: $blue;
+            font-size: rem-calc(25);
+            line-height: rem-calc(29);
+            margin-bottom: 20px;
+        }
+    }
 }
